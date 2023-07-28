@@ -1,7 +1,7 @@
 # KDT0_NohWookJIn
 
 <div align="center">
-    <img width="auto" alt="image" src="readme-images/Kakao-enterprise.png">
+   <img width="1680" alt="Kakao-enterprise" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/781c78a1-eea0-40c6-a6ca-0f862be7e826">
 </div>
 <br /><br />
 
@@ -55,11 +55,11 @@
 
 ## 화면 구성 📺
 
-|                    헤더 + 메인 섹션                    |                     뉴스 섹션                     |
-| :----------------------------------------------------: | :-----------------------------------------------: |
-| <img width="500" src="readme-images/Header-Main.png"/> |  <img width="500" src="readme-images/News.png"/>  |
-|                      서비스 섹션                       |                     하단 섹션                     |
-|   <img width="500" src="readme-images/Service.png"/>   | <img width="500" src="readme-images/Footer.png"/> |
+|                                                             헤더 + 메인 섹션                                                             |                                                              뉴스 섹션                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| <img width=“500” alt="Header-Main" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/1b41b444-5b16-4d06-b64c-9b7863854c26"> |  <img width=“500” alt="News" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/971011d4-7ecf-4495-9b2c-e7314ff8b766">  |
+|                                                               서비스 섹션                                                                |                                                              하단 섹션                                                              |
+|   <img width=“500” alt="Service" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/95b4210c-2cf5-48a2-b617-d23025986c50">   | <img width=“500” alt="Footer" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/3df0beb6-f70e-4fb7-ba58-65c478b5b1b8"> |
 
 ---
 
