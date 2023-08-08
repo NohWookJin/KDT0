@@ -1,7 +1,7 @@
 # KDT0_NohWookJIn
 
 <div align="center">
-    <img width="auto" alt="image" src="readme-images/Kakao-enterprise.png">
+   <img width="1680" alt="Kakao-enterprise" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/781c78a1-eea0-40c6-a6ca-0f862be7e826">
 </div>
 <br /><br />
 
@@ -10,12 +10,12 @@
 > **카카오 엔터프라이즈 클론 코딩** <br/> **개발기간: 2023.07.24~ 2023.07.28**
 
 <br />
-
+ 
 ## 배포 주소 및 카카오엔터프라이즈 주소
 
-배포 주소 : 미입력
+배포 : https://effulgent-babka-3fe88e.netlify.app/
 
-카카오엔터프라이즈 주소 : https://kakaoenterprise.com/
+카카오엔터프라이즈 : https://kakaoenterprise.com/
 
 <br />
 
@@ -55,11 +55,11 @@
 
 ## 화면 구성 📺
 
-|                    헤더 + 메인 섹션                    |                     뉴스 섹션                     |
-| :----------------------------------------------------: | :-----------------------------------------------: |
-| <img width="500" src="readme-images/Header-Main.png"/> |  <img width="500" src="readme-images/News.png"/>  |
-|                      서비스 섹션                       |                     하단 섹션                     |
-|   <img width="500" src="readme-images/Service.png"/>   | <img width="500" src="readme-images/Footer.png"/> |
+|                                                             헤더 + 메인 섹션                                                             |                                                              뉴스 섹션                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| <img width=“500” alt="Header-Main" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/1b41b444-5b16-4d06-b64c-9b7863854c26"> |  <img width=“500” alt="News" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/971011d4-7ecf-4495-9b2c-e7314ff8b766">  |
+|                                                               서비스 섹션                                                                |                                                              하단 섹션                                                              |
+|   <img width=“500” alt="Service" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/95b4210c-2cf5-48a2-b617-d23025986c50">   | <img width=“500” alt="Footer" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/3df0beb6-f70e-4fb7-ba58-65c478b5b1b8"> |
 
 ---
 
