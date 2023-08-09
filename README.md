@@ -1,5 +1,7 @@
 # KDT0_NohWookJIn
 
+## 피어리뷰 반영 후 재배포 완료
+
 <div align="center">
    <img width="1680" alt="Kakao-enterprise" src="https://github.com/KDT1-FE/Y_FE_HTML_CSS/assets/101846817/781c78a1-eea0-40c6-a6ca-0f862be7e826">
 </div>
